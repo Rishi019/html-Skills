@@ -1,0 +1,192 @@
+.top-container {
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px; }
+
+    div {
+        display: block; }
+
+        body {
+            color: #40514e;
+            margin: 0;
+            text-align: center;
+            font-family: "Merriweather", serif; }
+
+            .top-cloud {
+                position: absolute;
+                right: 300px;
+                top: 40px;
+            }
+            
+            user agent stylesheet
+            img {
+                overflow-clip-margin: content-box;
+                overflow: clip;
+            }
+            body {
+                color: #2f8576;
+                margin: 0;
+                text-align: center;
+                font-family: "Merriweather", serif;}
+                
+                div {
+                    display: block;
+                }
+                body {
+                    color: #2f8576;
+                    margin: 0;
+                    text-align: center;
+                    font-family: "Merriweather", serif;}
+
+                     h1 {
+                        font-family:"Sacramento", cursive;
+                        font-size: 6rem;
+                        color: #66bfbf;
+                        margin: 50px auto 0 auto;
+                    }
+                    h1 {
+                        display: block;
+                        font-size: 5em;
+                        margin-block-start: 0.67em;
+                        margin-block-end: 0.67em;
+                        margin-inline-start: 0px;
+                        margin-inline-end: 0px;
+                        font-weight: bold; }
+
+                    h2 {
+                        font-size: 2.5rem;
+                        color: #66bfbf;
+                        margin-bottom:10px ;
+                        font-family:"Montserrat", sans-serif;
+                        margin-block-start: 0.83em;
+                        margin-block-end: 0.83em;
+                        margin-inline-start: 0px;
+                        margin-inline-end: 0px;
+                    }   
+                    .bottom-cloud {
+                        position: absolute;
+                        left: 250px;
+                        bottom: 300px;
+                    } 
+                    .d-block {
+                        border-radius: 50%;
+                    }
+                    .lead {
+                        font-size: 1.2rem;
+                        font-family:"Montserrat", sans-serif;
+                        color: #477970;
+                        margin-bottom: 20px;
+                        padding-top: 10px;
+                    }
+                      h2{
+                        font-family:"Montserrat", sans-serif;
+                        font-size: 3rem;
+                        color: #2f8576;
+                        margin-bottom: 20px;
+                        padding-top: 5px;
+                        font-weight: normal;
+                    }
+                    h2 {
+                        display: block;
+                        font-size: 1.5em;
+                        margin-block-start: 0.83em;
+                        margin-block-end: 0.83em;
+                        margin-inline-start: 0px;
+                        margin-inline-end: 0px;
+                        font-weight: bold; 
+                    }
+                    .lh-1 {
+                        padding-bottom: 10px;
+                    }
+                    .chilli-img {
+                        height: 200px;
+                    }
+                    div {
+                        display: block; }
+                        body {
+                            color: #2f8576;
+                            margin: 0;
+                            text-align: center;
+                            font-family: "Merriweather", serif}
+                            .parent {
+                                display: grid;
+                                grid-template-columns: 0.5fr 1fr;
+                                grid-template-rows: repeat(1, 1fr);
+                                width: 50%;
+                                margin: 100px
+                            px
+                             auto 0 auto;
+                                text-align: left;
+                                row-gap: 2rem; }
+                                img {
+                                    overflow-clip-margin: content-box;
+                                    overflow: clip; }
+                                    .chilli-img {
+                                        width: 50%;
+                                        margin-left: 30px;}
+
+                                        h3 {
+                                            color: #11999e;
+                                            font-family: "Montserrat", sans-serif;
+                                        }
+                                        
+                                        user agent stylesheet
+                                        h3 {
+                                            display: block;
+                                            font-size: 1.17em;
+                                            margin-block-start: 1em;
+                                            margin-block-end: 1em;
+                                            margin-inline-start: 0px;
+                                            margin-inline-end: 0px;
+                                            font-weight: bold; }
+                                            p {
+                                                line-height: 2;
+                                            }
+                                            user agent stylesheet
+                                            p {
+                                                display: block;
+                                                margin-block-start: 1em;
+                                                margin-block-end: 1em;
+                                                margin-inline-start: 0px;
+                                                margin-inline-end: 0px; }
+                                                .contact-message {
+                                                    width: 40%;
+                                                    margin: 40px auto 60px; }
+                                                    .btn {
+                                                        background: #11cdd4;
+                                                        background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+                                                        background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+                                                        background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+                                                        background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+                                                        background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+                                                        -webkit-border-radius: 8;
+                                                        -moz-border-radius: 8;
+                                                        border-radius: 8px;
+                                                        font-family: "Montserrat", sans-serif;
+                                                        color: #ffffff;
+                                                        font-size: 20px;
+                                                        padding: 10px 20px 10px 20px;
+                                                        text-decoration: none;
+                                                    }
+                                                    
+                                                    a {
+                                                        color: #11999e;
+                                                        font-family: "Montserrat", sans-serif;
+                                                        margin: 10px 20px;
+                                                        text-decoration: none;
+                                                    }
+                                                    user agent stylesheet
+                                                    a:-webkit-any-link {
+                                                        color: -webkit-link;
+                                                        cursor: pointer;
+                                                        text-decoration: underline;}
+
+                                                        .copyright {
+                                                            color: #eaf6f6;
+                                                            font-size: 0.75rem;
+                                                            padding: 20px 0; }
+
+                                                            .bottom-container {
+                                                                background-color: #66bfbf;
+                                                                padding: 50px 0 20px; }
+
